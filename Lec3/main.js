@@ -34,8 +34,8 @@
 // console.log(biggestSecond());
 
 //5
-const arr = ["mom", "car", "level", "dog"];
-function isPalindrom() {
-  return arr.filter((word) => word === word.split("").reverse().join(""));
-}
-console.log(isPalindrom());
+// const arr = ["mom", "car", "level", "dog"];
+// function isPalindrom() {
+//   return arr.filter((word) => word === word.split("").reverse().join(""));
+// }
+// console.log(isPalindrom());
