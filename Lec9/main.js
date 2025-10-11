@@ -173,8 +173,9 @@ class ContactManager {
     const contact = this.contacts.find((c) => c.id === id);
     if (!contact) return console.log(`ვერ მოიძებნა ID ${id}`);
     if (this.contacts.some((c) => c.phone === newPhone && c.id !== id))
-      contact.phone = newPhone;
-    return console.log(` უკვე არსებობს`);
+      return console.log(` უკვე არსებობს`);
+    contact.phone = newPhone;
+    return console.log("განახლდა");
   }
 }
 const manager = new ContactManager();
