@@ -37,7 +37,7 @@
 //     if (rand === target) {
 //       console.log("common");
 //       clearInterval(interval);
-//       ს;
+//       ;
 //     }
 //   }, 1000);
 // }
