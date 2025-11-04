@@ -1,4 +1,4 @@
-//1
+// 1
 // const numbers = [1, 2, 3, 4, 5];
 
 // function average() {
@@ -8,7 +8,7 @@
 
 // console.log(average());
 
-//2
+// 2
 // const numbers = [1, 2, 3, 4, 5];
 
 // function reverse() {
@@ -16,7 +16,7 @@
 // }
 // console.log(reverse()); // კარგად ვერ გავიაზრე კითხვა მგონი ამას გულისხმობდი
 
-//3
+// 3
 // const a = [1, 2, 2, 2, 3];
 // const b = [2];
 
@@ -25,7 +25,7 @@
 // }
 // console.log(difference([1, 2, 2, 2, 3], [2]));
 
-//4
+// 4
 // const arr = [10, 40, 20, 5, 30];
 // function biggestSecond() {
 //   const sorted = arr.sort((a, b) => a - b);
@@ -33,7 +33,7 @@
 // }
 // console.log(biggestSecond());
 
-//5
+// 5
 // const arr = ["mom", "car", "level", "dog"];
 // function isPalindrom() {
 //   return arr.filter((word) => word === word.split("").reverse().join(""));
